@@ -52,10 +52,10 @@ Draw in the air with your dominant hand and manipulate your creations in real-ti
 3.  **Use**: Grant camera permissions and raise your hands in view!
 
 ## 👨‍💻 Developer
-**Akshat Singh**  
+**Adri Goswami**  
 📸 Instagram: [@i_am.adri11](https://www.instagram.com/i_am.adri11?igsh=MXcyMndlbDc4bng2cA==)  
 🐙 GitHub: [Adri](https://github.com/adri-vibecode)
-
+Website link: https://airdrawer.edgeone.app
 
 ---
 *Built with passion for AI and Spatial Computing.*
