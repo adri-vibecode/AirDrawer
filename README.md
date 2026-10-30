@@ -53,7 +53,7 @@ Draw in the air with your dominant hand and manipulate your creations in real-ti
 
 ## 👨‍💻 Developer
 **Adri Goswami**  
-📸 Instagram: [@i_am.adri11](https://www.instagram.com/i_am.adri11?igsh=MXcyMndlbDc4bng2cA==)  
+📸 Instagram: [@pixeltologic](https://www.instagram.com/pixeltologic?dlrf=MXcyMndlbDc4bng2cA==)  
 🐙 GitHub: [Adri](https://github.com/adri-vibecode)
 Website link: [AirDrawer](https://airdrawer.edgeone.app)
 
